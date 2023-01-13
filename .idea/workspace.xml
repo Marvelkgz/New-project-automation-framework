@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5de98eec-e205-4f4d-a0e1-3cc38758167e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/AllMyWork/homeWork/stepDefibitions/ScenarioOutlineStepDefs.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JJwDEKnaeh5Pbe5vf6DriQQppT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/stepDefibitions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marve\obtaincareUI.New\new-Cucumber-Automation-Framework\src\test\resources\features" />
+      <recent name="C:\Users\marve\obtaincareUI.New\new-Cucumber-Automation-Framework\src\test\resources" />
+      <recent name="C:\Users\marve\obtaincareUI.New\new-Cucumber-Automation-Framework\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Windows7.testWindows7">
+    <configuration name="MacOS.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
+      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.MacOS" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSXYosem.testOSXYosem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
+      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.OSXYosem" />
+      <option name="METHOD_NAME" value="testOSXYosem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Windows10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
+      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.Windows10" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Windows10.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
+      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.Windows10" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Windows7.testWindows7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
+      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.Windows7" />
+      <option name="METHOD_NAME" value="testWindows7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Windows7.testWindows7" />
+        <item itemvalue="JUnit.OSXYosem.testOSXYosem" />
+        <item itemvalue="JUnit.Windows10.test" />
+        <item itemvalue="JUnit.Windows10.test1" />
+        <item itemvalue="JUnit.MacOS.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5de98eec-e205-4f4d-a0e1-3cc38758167e" name="Changes" comment="" />
+      <created>1671809377388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671809377388</updated>
+    </task>
+    <servers />
+  </component>
+</project>

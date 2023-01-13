@@ -1,0 +1,14 @@
+TalantLMS\UI\helpers\Helper.class
+DigitalNomads\Kyrgyzstan.class
+TalantLMS\UI\utils\ChromeWebDriver.class
+TalantLMS\UI\utils\FireFoxWebDriver.class
+DigitalNomads\BankerDemo.class
+TalantLMS\UI\utils\Driver.class
+DigitalNomads\BankBase.class
+TalantLMS\UI\pages\AdminHomePage.class
+TalantLMS\UI\dataProvider\ConfigReader.class
+DigitalNomads\Bank.class
+DigitalNomads\KCIB.class
+DigitalNomads\DemirBank.class
+TalantLMS\UI\utils\EdgeWebDriver.class
+TalantLMS\UI\pages\LoginPage.class
