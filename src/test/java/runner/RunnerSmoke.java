@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = "src/test/resources/UIfeatures",
         glue = "stepDefs",
-        tags =  "@AddNewUser",
+        tags =  "@Smoke",
         monochrome = true,
         dryRun = false
 )

@@ -19,11 +19,7 @@ public class Driver {
       if (driver == null){
           switch (ConfigReader.getProperty("browser").toLowerCase().trim()){
               case "chrome":
-                  try {
-                      driver = Windows7.Windows7Chrome();
-                  }catch (MalformedURLException e){
-                      e.printStackTrace();
-                  }
+                  driver = ChromeWebDriver.loadChromeDriver();
               break;
                   case "firefox":
                       try {

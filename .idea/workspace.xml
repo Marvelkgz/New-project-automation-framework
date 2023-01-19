@@ -6,6 +6,59 @@
   <component name="ChangeListManager">
     <list default="true" id="5de98eec-e205-4f4d-a0e1-3cc38758167e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/RunnerSmoke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/RunnerSmoke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/UIfeatures/CreateNewUser.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/UIfeatures/CreateNewUser.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/BankBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/BankerDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/DemirBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/KCIB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DigitalNomads/Kyrgyzstan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/dataProvider/ConfigReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/dataProvider/MockDataGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/ChromeWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/EdgeWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/FireFoxWebDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/sauslabs/MacOS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/sauslabs/OSXYosem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/sauslabs/Windows10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/sauslabs/Windows11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/driverFactory/sauslabs/Windows7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/helperMethods/Helper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/pages/AddNewUserPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/pages/AdminHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/pages/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TalantLMS/UI/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/new-Cucumber-Automation-Framework-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-runner.RunnerSmoke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/runner.RunnerSmoke.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/GoogleIphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/UI/CheckBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/UI/PracticeForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/UI/SeleniumDemoTexBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/UI/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/runner/RunnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/stepDefibitions/MyFirstStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/stepDefibitions/NewScenarioStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AllMyWork/homeWork/stepDefibitions/ScenarioOutlineStepDefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UIfeatures/CreateNewUser.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UIfeatures/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/configurations.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/2ScenarioOutline.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Progect.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/ScenarioOutLine.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/runner/RunnerSmoke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefs/AddNewUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefs/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefs/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefs/LoginSteps.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +82,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2JJwDEKnaeh5Pbe5vf6DriQQppT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,19 +105,23 @@
       <recent name="C:\Users\marve\obtaincareUI.New\new-Cucumber-Automation-Framework\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Windows7.testWindows7">
-    <configuration name="MacOS.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RunnerSmoke">
+    <configuration name="Scenario: Positive create new user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/UIfeatures/CreateNewUser.feature" />
+      <option name="GLUE" value="stepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="new-Cucumber-Automation-Framework" />
+      <option name="NAME_FILTER" value="^Positive create new user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Positive create new user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Positive create new user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
-      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.MacOS" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +142,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunnerSmoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="new-Cucumber-Automation-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunnerSmoke" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Windows10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="new-Cucumber-Automation-Framework" />
       <extension name="coverage">
@@ -93,22 +168,6 @@
       <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
       <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.Windows10" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Windows10.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="new-Cucumber-Automation-Framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TalantLMS.UI.driverFactory.sauslabs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TalantLMS.UI.driverFactory.sauslabs" />
-      <option name="MAIN_CLASS_NAME" value="TalantLMS.UI.driverFactory.sauslabs.Windows10" />
-      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunnerSmoke" />
+        <item itemvalue="Cucumber Java.Scenario: Positive create new user" />
         <item itemvalue="JUnit.Windows7.testWindows7" />
         <item itemvalue="JUnit.OSXYosem.testOSXYosem" />
         <item itemvalue="JUnit.Windows10.test" />
-        <item itemvalue="JUnit.Windows10.test1" />
-        <item itemvalue="JUnit.MacOS.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,5 +209,16 @@
       <updated>1671809377388</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

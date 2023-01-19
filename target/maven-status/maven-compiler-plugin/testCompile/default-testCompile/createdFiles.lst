@@ -1,11 +1,15 @@
 AllMyWork\homeWork\UI\CheckBox.class
+AllMyWork\homeWork\UI\Test.class
 stepDefs\LoginSteps.class
+AllMyWork\homeWork\git\Git.class
 AllMyWork\homeWork\UI\SeleniumDemoTexBox.class
 AllMyWork\homeWork\runner\RunnerClass.class
 runner\RunnerSmoke.class
 AllMyWork\homeWork\stepDefibitions\ScenarioOutlineStepDefs.class
 AllMyWork\homeWork\stepDefibitions\MyFirstStepDefs.class
 stepDefs\Hooks.class
+stepDefs\BaseTest.class
 AllMyWork\homeWork\GoogleIphone.class
+stepDefs\AddNewUser.class
 AllMyWork\homeWork\stepDefibitions\NewScenarioStepDefs.class
 AllMyWork\homeWork\UI\PracticeForm.class

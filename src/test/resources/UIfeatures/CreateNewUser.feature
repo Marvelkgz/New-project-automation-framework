@@ -3,7 +3,7 @@ Feature: Create new user functionality
 
   Background: Land to Home page
     Given Go to login  page
-  @AddNewUser
+  @Smoke1
   Scenario: Positive create new user
     When user should click Add user button in Admin home page
     And verify following field names are displayed
